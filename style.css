@@ -97,12 +97,14 @@ body {
         font-size: 20px;
     }
     .item{
-        width: 77px;
-        height: 77px;
+        width: 68px;
+        height: 68px;
+        align-items: center;
     }
     .game{
-        width: 345px;
-        height: 345px;
+        justify-content: center;
+        width: 325px;
+        height: 325px;
     }
     .container{
         padding: 40px 20px;
